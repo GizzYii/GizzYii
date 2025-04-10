@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" alt="JavaScript Animated Logo"/>
+  <img src="[https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif](https://media.licdn.com/dms/image/v2/C4D22AQHI0H3pBumaug/feedshare-shrink_800/feedshare-shrink_800/0/1667048075337?e=2147483647&v=beta&t=UKuc3Pv1-vN_uYM8fViPYJaWx47wywl4vP3WGE1cYyg)" width="200" alt="JavaScript Animated Logo"/>
 </p>
 
 <h1 align="center">Hey there, I'm Gizem 👩‍💻</h1>
