@@ -13,8 +13,9 @@
 -🌱 Learning API integration, asynchronous JavaScript, and real-world data handling
 -💡 Passionate about clean code, responsive design, and accessibility
 -👩‍🎓 Coming from a non-tech background, now fully focused on becoming a skilled developer
-- 📬 How to reach me: [LinkedIn] (www.linkedin.com/in/gizem-y-32abb5344)
-
+- 📬 How to reach me:
+- [LinkedIn] (www.linkedin.com/in/gizem-y-32abb5344)
+- [Github] (https://github.com/AlchemistGizz)
 
 ---
 
