@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1eb01f08-2561-46fb-94bf-df82b3691a25)
+  <img src="((https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif))
 " width="200" alt="JavaScript Animated Logo"/>
 </p>
 
