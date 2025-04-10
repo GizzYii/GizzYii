@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="((https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif))
-" width="200" alt="JavaScript Animated Logo"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" alt="JavaScript Animated Logo"/>
 </p>
 
 <h1 align="center">Hey there, I'm Gizem 👩‍💻</h1>
