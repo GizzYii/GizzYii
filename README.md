@@ -8,6 +8,12 @@
 ---
 
 ### 🌟 About Me
+
+## 🌐 Portfolio Website
+
+🔗 [Visit My Portfolio Website](https://alchemistgizz.github.io/MyPortfolio/)  
+(*Note: Live demo via GitHub Pages. Domain setup coming soon!*)
+
 -🔭 Currently working on improving my JavaScript and algorithm problem-solving skills
 -💻 I love building things that live on the web, from simple UI concepts to interactive web apps
 -🌱 Learning API integration, asynchronous JavaScript, and real-world data handling
