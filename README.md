@@ -11,7 +11,7 @@
 
 ## 🌐 Portfolio Website
 
-🔗 [Visit My Portfolio Website](https://alchemistgizz.github.io/MyPortfolio/)  
+🔗 [Visit My Portfolio Website](https://alchemistgizz.github.io/MyPortfolio/](https://portfolio-gizem.vercel.app/)  
 (*Note: Live demo via GitHub Pages. Domain setup coming soon!*)
 
 -🔭 Currently working on improving my JavaScript and algorithm problem-solving skills
