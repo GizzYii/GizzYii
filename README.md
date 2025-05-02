@@ -20,8 +20,8 @@
 -💡 Passionate about clean code, responsive design, and accessibility
 -👩‍🎓 Coming from a non-tech background, now fully focused on becoming a skilled developer
 - 📬 How to reach me:
-- [LinkedIn] (www.linkedin.com/in/gizem-y-32abb5344)
-- [Github] (https://github.com/AlchemistGizz)
+- [LinkedIn] (https://www.linkedin.com/in/ygzy-6414-y/)
+- [Github] (https://github.com/GizzYii)
 
 ---
 
