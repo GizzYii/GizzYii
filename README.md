@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Gizem 👩‍💻</h1>
-<h3 align="center">Frontend Developer 101 | Lifelong Learner | Curious  🚀</h3>
+<h3 align="center">Frontend Developer 102 | Lifelong Learner | Curious  🚀</h3>
 
 ---
 
